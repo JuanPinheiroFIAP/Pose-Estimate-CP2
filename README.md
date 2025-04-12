@@ -41,7 +41,10 @@ A comunicação com o Arduino permite que os movimentos detectados sejam utiliza
 - Comunicação via **Serial (porta COM5 no nosso caso)** com taxa de baud `9600`.
 
 ---
+### 📷 Foto do Circuito
+![Arduino](https://github.com/user-attachments/assets/9c85917e-573e-41d7-a19b-52aed552e5fb)
 
+---
 ## 🔌 Circuito no Tinkercad
 
 - Link para visualização do circuito no Tinkercad:  
